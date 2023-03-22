@@ -1,0 +1,50 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "aws.profile": "/Users/deguzim/Amazon\\ WorkDocs\\ Drive/My\\ Documents/vscode/aws-vscode-iam-user.csv",
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "workbench.list.openMode": "doubleClick",
+    "workbench.settings.openDefaultSettings": true,
+    "window.zoomLevel": 1,
+    "workbench.iconTheme": "vscode-icons",
+    "autoDocstring.includeExtendedSummary": true,
+    "settingsSync.ignoredExtensions": [
+        
+    ],
+    "vsicons.dontShowNewVersionMessage": true,
+    "vscode-neovim.neovimExecutablePaths.linux": "",
+    "files.watcherExclude": {
+        "**/.bats/**": true,
+        "**/.cache/**": true,
+        "**/.cargo/**": true,
+        "**/.npm/**": true,
+        "**/.rbenv/**": true,
+        "**/.rubies/**": true,
+        "**/.toolbox/**": true,
+        "**/brazil-package-cache/**": true
+    },
+    "search.exclude": {
+        "**/.*": true
+    },
+    "files.exclude": {
+        "**/.*": true
+    },
+    "editor.autoClosingBrackets": "never",
+    "workspaceSidebar.folder": "~/vscode/workspaces",
+    "workspaceSidebar.showFolderHierarchy": true,
+    "workspaceSidebar.showRootFolder": true,
+    "git.openRepositoryInParentFolders": "never",
+    "vim.history": 100,
+    "vim.statusBarColorControl": true,
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#005f5f",
+        "statusBar.noFolderBackground": "#005f5f",
+        "statusBar.debuggingBackground": "#005f5f"
+    },
+    "vim.vimrc.enable": true,
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.macOptionClickForcesSelection": true
+}
